@@ -1,5 +1,7 @@
 # performance-wg
 
-**This working gorup is arhcived. Work is moved to be covered by the core working group** 
+> [!IMPORTANT]
+> This working group has been archived. Its work is now covered by the
+> [Core Working Group](https://github.com/webpack/webpack/blob/main/WORKING_GROUP.md).
 
 Performance Working Group for webpack

@@ -1,6 +1,8 @@
 # Design Working Group
 
-**This Working Group has been archived and will be replaced by individual contributions as well as help from the OpenJS Foundation**
+> [!IMPORTANT]
+> This working group has been archived. Its work is replaced by individual contributions
+> as well as help from the OpenJS Foundation.
 
 ## Charter
 
